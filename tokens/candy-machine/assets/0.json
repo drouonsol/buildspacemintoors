@@ -1,0 +1,34 @@
+{
+  "name": "Wolf #0",
+  "symbol": "DRU",
+  "description": "Oh yeah bb",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "https://nothing.com",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Trait 1",
+      "value": "Trait "
+    },
+    {
+      "trait_type": "Lmao",
+      "value": "Green"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BWxYFcNv1TacJTkVo39eimrJHWiBkNYn2KRebAbEr6ZV",
+        "share": 100
+      }
+    ]
+  }
+}
